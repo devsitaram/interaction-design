@@ -1,8 +1,17 @@
 // Research about the fitness app
 https://www.forbes.com/health/fitness/best-fitness-apps/
 
+// Color
+https://fuzzymath.com/blog/the-color-palettes-of-mental-healthcare-ui/
+
+// activity
+https://stock.adobe.com/search?k=yoga&asset_id=316957857
+
 //How to ask the interview 
 https://www.youtube.com/watch?v=sDzB8a5CLkM
+
+//Yoga
+https://stock.adobe.com/search?k=yoga&asset_id=263688904
 
 //
 https://dribbble.com/shots/13923228-Mental-Health-Application/attachments/5533210?mode=media
@@ -11,3 +20,15 @@ https://dribbble.com/shots/8139099-Mental-Health-App/attachments/558688?mode=med
 
 // mode tracker
 https://play.google.com/store/apps/details?id=net.daylio&hl=en&gl=US
+
+https://play.google.com/store/apps/details?id=moodtracker.selfcare.habittracker.mentalhealth&hl=en&gl=US
+
+https://play.google.com/store/apps/details?id=com.cyberlimbic.aime&hl=en&gl=US
+
+https://play.google.com/store/apps/details?id=com.vos.app&hl=en&gl=US
+
+
+// wireframe
+https://balsamiq.cloud/sfv4mz3/p90auk7/r2278
+
+https://stock.adobe.com/search?k=yoga&asset_id=263688904
